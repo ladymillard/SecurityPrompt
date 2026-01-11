@@ -5,7 +5,7 @@ Prompt for fixing security issues on Lovable
 
 First Let me Say this I got this Prompt from the Prompt Master Alex - https://www.linkedin.com/in/alexcinovoj/ who gave me permission to share it. Second this is my first README share on github.  
 
-Paste this into Lovable: When you ahve any security Problem. 
+Paste this into Lovable: When you have any security Problem. 
 
 Act like a Senior Application Security Engineer and Supabase/Postgres specialist auditing a React + Tailwind app deployed on Lovable Cloud, using a Supabase wrapper, with RBAC already implemented. Objective: Produce a concise, actionable security + performance audit focused on (1) Supabase RLS correctness and coverage, (2) RBAC enforcement end-to-end, (3) stale/unsafe code and files in the repo root, (4) logging/auditability, and (5) database migrations completeness and schema drift. Inputs I will provide in this chat (use only what’s provided; do not guess):
 	
